@@ -3,6 +3,14 @@ The project consists of two interconnected parts, united by a common structural 
 1. **GitHub Activity Analysis with Applied Advansed Statistics** (`GitHub-Activity-Analysis-Project.ipynb` + `BigQuery Dataset Implementation.md`).
 2. **GitHub Activity Analysis of Python Repositories** ([GitHub Activity of Python Repositories | Tableau Public](https://public.tableau.com/app/profile/veronika.kobets/viz/GitHub_Activity_Python/GitHubActivityofPythonRepositories) + `BigQuery Dataset Implementation.md`).
 ---
+## Table of Contents
+1. [Project Overview](#milestone-2in1-project-github-activity-analysis-feat-python-repositories-kpis-research)
+2. [Technologies Used](#technologies-used)
+3. [Key Features](#key-features)
+4. [Data Overview](#data-overview)
+5. [Methodology](#methodology)
+6. [Key Findings](#key-findings)
+---
 ## Technologies Used 
 1. Hard Skillset for **GitHub Activity Analysis with Applied Advansed Statistics**:
 	- **`Python` Tools and Packages:**
