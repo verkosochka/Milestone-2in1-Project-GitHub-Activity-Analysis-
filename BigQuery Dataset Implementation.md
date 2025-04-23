@@ -291,6 +291,7 @@ file_count AS (
   GROUP BY repo_name
 )
 ```
+
 6. **`total_commits`** (INTEGER, Nullable):
     
     - **Description:** The total number of commits made to the repository.
@@ -306,6 +307,7 @@ commit_count AS (
   GROUP BY repo
 )
 ```
+
 7. **`used_languages`** (INTEGER, Nullable):
     
     - **Description:** The number of distinct programming languages used in the repository.
@@ -321,6 +323,7 @@ lang_count AS (
   GROUP BY repo_name
 )
 ```
+
 8. **`top_language`** (STRING, Nullable):
     
     - **Description:** The primary or most used programming language in the repository.
@@ -341,6 +344,7 @@ top_lang AS (
   WHERE rnk = 1
 )
 ```
+
 9. **`avg_bytes_per_file`** (FLOAT, Nullable):
     
     - **Description:** The average size of files in the repository, calculated as the total size (in bytes) divided by the number of files.
@@ -454,7 +458,7 @@ You can download the GitHub-Activity-Analysis dataset with the following link:
 - .csv: [GitHub Activity Dataset](https://drive.google.com/file/d/17G7a_cQI1d5Yd_PtU0ur56ZUBuAUV9ml/view?usp=drive_link) 
 - .xlsx: [GitHub Activity Dataset]( https://docs.google.com/spreadsheets/d/1qB4dKAOOidrfsKoSoPHqWu_CMnF-uT3X/edit?usp=drive_link&ouid=102100486137110097760&rtpof=true&sd=true)
 
-# `Python` Dataset for BI-systems Vizualization
+# `Python` Dataset for BI-systems Visualization
 
 According to the [2025 Programming Language Rankings](https://www.index.dev/blog/most-popular-programming-languages-) , Python stands as the leading programming language, forming the foundation for various domains such as **web development** (Django, Flask, FastAPI), **data science & analytics** (pandas, numpy, matplotlib), **machine learning & AI** (tensorFlow, pytorch, scikit-learn), **automation & scripting** (selenium, scrapy, pyautoGUI, shell scripting), **cybersecurity & ethical hacking**, **game development** (pygame and panda3D), **embedded systems & IoT** ( micropython and circuitpython), **finance & fintech**, and **cloud & DevOps**.
  
