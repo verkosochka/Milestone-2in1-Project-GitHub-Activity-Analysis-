@@ -1,6 +1,6 @@
 # Milestone 2in1 Project: GitHub Activity Analysis feat. Python Repositories KPIs Research 
 The project consists of two interconnected parts, united by a common structural theme (the analysis of technical and behavioral metrics for measuring the activity of GitHub repositories). However, each sub-project has its own focus, insights, and KPIs, based on which different research methodologies were applied:
-1. **GitHub Activity Analysis with Applied Advansed Statistics** (`GitHub-Activity-Analysis-Project.ipynb` + `BigQuery Dataset Implementation.md`).
+1. **GitHub Activity Analysis with Applied Advanсed Statistics** (`GitHub-Activity-Analysis-Project.ipynb` + `BigQuery Dataset Implementation.md`).
 2. **GitHub Activity Analysis of Python Repositories** ([GitHub Activity of Python Repositories | Tableau Public](https://public.tableau.com/app/profile/veronika.kobets/viz/GitHub_Activity_Python/GitHubActivityofPythonRepositories) + `BigQuery Dataset Implementation.md`).
 ---
 ## Table of Contents
